@@ -1,8 +1,12 @@
 {
   "name": "natours",
   "version": "1.0.0",
-  "description": "Landing page for natours",
+  "description": "landing page for natours",
   "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,8 +19,5 @@
   "bugs": {
     "url": "https://github.com/marcusvxf/Natours/issues"
   },
-  "homepage": "https://github.com/marcusvxf/Natours#readme",
-  "devDependencies": {
-    "node-sass": "^5.0.0"
-  }
+  "homepage": "https://github.com/marcusvxf/Natours#readme"
 }
